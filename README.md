@@ -1,7 +1,7 @@
 # tutorial-nodejs-api-postgres
 
 An Express API with a PostgreSQL database, used in the Light Cloud tutorial
-[Add a PostgreSQL database to a Node.js app (and fix the SSL error)](https://blog.light-cloud.com/tutorials/add-postgres-to-nodejs-app).
+[Add a PostgreSQL database to a Node.js app on Light Cloud](https://blog.light-cloud.com/tutorials/add-postgres-to-nodejs-app).
 
 ```mermaid
 flowchart LR
